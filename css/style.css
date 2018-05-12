@@ -10,6 +10,9 @@ a {
   text-decoration: none;
   color: white;
 }
+p {
+  margin-bottom: 20px;
+}
 
   a:link { color:#DCDCDC; } /* unvisited */
   a:hover { color:black; } /* mouse over */
